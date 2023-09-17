@@ -122,6 +122,7 @@
     color: rgb(192, 36, 36);
     border-radius: 60px;
     font-weight: 700;
+    font-size: 25px;
 }
 .btn2{
     height: 45px;
@@ -134,6 +135,7 @@
     color: rgb(192, 36, 36);
     border-radius: 60px;
     font-weight: 700;
+    font-size: 20px;
 }
 
 
@@ -286,16 +288,6 @@ h1{
     transition: 0.5s;
 }
 
-.profile-social a{
-    transition: color 0.3s ease 0s;
-    margin: 0 20px;
-    font-size: 16px;
-}
-
-.profile-social a:hover{
-    text-decoration: none;
-    color: #2eca7f;
-}
 
 
 
