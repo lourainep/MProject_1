@@ -301,7 +301,7 @@ h1{
 
 /*------------------------------------------FOOTER---------------------------------*/
 
-.news{
+.footer{
     background-color: black;
     color: white;
 }
@@ -314,7 +314,7 @@ h1{
     font-weight: 600;
 }
 
-.news input{
+.footer input{
     height: 45px;
     width: 55%;
     border: 2px solid white;
@@ -324,11 +324,11 @@ h1{
     margin-top: 20px;
     font-weight: 600;
 }
-.news::placeholder{
+.footer::placeholder{
     color: white;
 
 }
-.news p{
+.footer p{
     margin: 0;
 
 }
